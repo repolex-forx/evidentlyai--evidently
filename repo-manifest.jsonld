@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/evidentlyai/evidently/commit/34771fe41c08ca074d96a52aaf4a45cd640cbaf5",
       "git:hexsha": "34771fe41c08ca074d96a52aaf4a45cd640cbaf5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/evidentlyai/evidently/commit/16b777a36097bf1d44b9565ee3d9e4f14fdc9a3d",
